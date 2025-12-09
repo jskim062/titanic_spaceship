@@ -36,7 +36,7 @@ All requirements are listed in `requirements.txt`.
   
 ## Repository Structure  
   
-```plaintext  
+```plaintext
 SpaceshipTitanic/  
 ├── README.md                # Project description  
 ├── spaceship_titanic.ipynb  # Main notebook  
@@ -44,9 +44,7 @@ SpaceshipTitanic/
 ├── test.csv                 # Kaggle test data  
 ├── submission.csv           # Prediction output for submission  
 └── requirements.txt         # Library dependencies  
-
-  
----  
+``` 
 ---  
   
 ## Usage  
